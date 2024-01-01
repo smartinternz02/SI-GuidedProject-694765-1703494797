@@ -6,12 +6,12 @@ https://publuu.com/flip-book/350893/803440/page/2
 
 
 --------Ideation Phase
-Empathy Map Canvas
+--Empathy Map Canvas
 HAD BEEN UPLOADED
 
 
 
-Brainstorm & Prioritize Ideas
+--Brainstorm & Prioritize Ideas
 HAD BEEN UPLOADED
 
 
