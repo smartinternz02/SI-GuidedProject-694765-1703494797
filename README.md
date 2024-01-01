@@ -27,7 +27,7 @@ Determine The Requirements (Data Flow Diagram)
 INCLUDED IN THE OVERALL Documentation
 
 ------Project Planning Phase
-Technology Stack-Provided the files
+Technology Stack-Provided the files-https://publuu.com/flip-book/350893/803440/page/2
 
 Project Planning Details
 INCLUDED IN THE OVERALL Documentation
