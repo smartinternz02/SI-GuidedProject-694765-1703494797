@@ -5,35 +5,31 @@ OVERALL DOCUMENTATION -
 https://publuu.com/flip-book/350893/803440/page/2
 
 
---------Ideation Phase
---Empathy Map Canvas
-HAD BEEN UPLOADED
+IDEATION PHASE
+--Empathy Map Canvas((HAD BEEN UPLOADED))
 
 
 
---Brainstorm & Prioritize Ideas
-HAD BEEN UPLOADED
+--Brainstorm & Prioritize Ideas((HAD BEEN UPLOADED))
 
 
 
-------Project Design Phase
-Proposed Solution
-INCLUDED IN THE OVERALL Documentation
+PROJECT DESIGN PHASE--
+Proposed Solution-((INCLUDED IN THE OVERALL Documentation))
 
-Solution Architecture
-INCLUDED IN THE OVERALL Documentation
+Solution Architecture-((INCLUDED IN THE OVERALL Documentation))
 
 Determine The Requirements (Data Flow Diagram)
 INCLUDED IN THE OVERALL Documentation
 
-------Project Planning Phase
+PROJECT PLANNING PHASE
 Technology Stack-Provided the files-https://publuu.com/flip-book/350893/803440/page/2
 
 Project Planning Details
 INCLUDED IN THE OVERALL Documentation
 
 
--------Project Development Phase
+PROJEXT DEVELOPMENT PHASE
 Project Manual
 INCLUDED IN THE OVERALL Documentation
 
