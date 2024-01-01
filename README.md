@@ -1,6 +1,9 @@
 Sl-GuidedProject-694765
 
 Lip Reading using Deep Learning -
+OVERALL DOCUMENTATION -
+https://publuu.com/flip-book/350893/803440/page/2
+
 
 --------Ideation Phase
 Empathy Map Canvas
