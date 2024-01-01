@@ -1,5 +1,7 @@
 Sl-GuidedProject-694765
 
+DEMO Link- https://drive.google.com/file/d/1YTrCSc77XPI-yeKzbEUO7Rg0N8Obpmr9/view?usp=drive_link
+
 Lip Reading using Deep Learning -
 OVERALL DOCUMENTATION -
 https://publuu.com/flip-book/350893/803440/page/2
