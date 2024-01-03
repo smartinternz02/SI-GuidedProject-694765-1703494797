@@ -1,8 +1,8 @@
 
 
 Sl-GuidedProject-694765
-DEMO Link(1)- https://drive.google.com/file/d/1YTrCSc77XPI-yeKzbEUO7Rg0N8Obpmr9/view?usp=drive_link
-Link 2- https://drive.google.com/file/d/1uDrwgSsdTPbsMkFD6s1XJd3ifxDyUBIj/view?usp=drive_link
+DEMO Link(1)- https://drive.google.com/file/d/1ldi2h1Vzkf23KqO8Dm_NWEzUJZExA7TR/view?usp=drive_link
+Link 2- https://drive.google.com/file/d/1znoiTmPJ9r8zKyuV4_aePhJQZ61Zamxh/view?usp=drive_link
 Lip Reading using Deep Learning – 
 OVERALL DOCUMENTATION - https://publuu.com/flip-book/350893/803440/page/2
 1) IDEATION PHASE 
